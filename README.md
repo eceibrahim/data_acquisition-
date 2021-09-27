@@ -1,6 +1,5 @@
 Software Tools : 
-
-1-Keil uVersion5 "IDE"
+1-Keil uVersion5 "IDE".
 
 
 Hardware :
